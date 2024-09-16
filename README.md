@@ -10,6 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/retesh-kumar-sharma-312973158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="retesh-kumar-sharma-312973158/" height="30" width="40" /></a>
+<a href="https://instagram.com/g_rksharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g_rksharma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/reteshsharma57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="reteshsharma57" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rksharma7071/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rksharma7071/" height="30" width="40" /></a>
 </p>
 
@@ -19,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rksharma7071&show_icons=true&locale=en&layout=compact" alt="rksharma7071" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rksharma7071&show_icons=true&locale=en" alt="rksharma7071" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rksharma7071&" alt="rksharma7071" /></p>
